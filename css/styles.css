@@ -1,0 +1,15 @@
+.container {
+   max-width: 900px;
+    margin: 0 auto;
+    padding: 15px;
+    outline: 1px solid pink;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+}
+.primary-nav {
+    outline: 1px solid pink;
+}
+.primary-nav ul {
+}
